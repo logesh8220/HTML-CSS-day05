@@ -1,0 +1,73 @@
+
+
+.header {
+background-color: rgb(27, 42, 49);
+text-align: center;
+color: #fff;
+padding: 30px;
+letter-spacing: 2px;
+font-size: larger;
+}
+.area1{
+    width: 400px;
+    height: 700px;
+    background-color: rgb(58, 57, 57);
+    margin: 60px;
+  
+    border-radius: 20px;
+}
+.search {
+    width: 800px;
+    height: 60px;
+    background-color: rgb(58, 57, 57);
+    display: flex;
+    margin-left: 700px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+.text {
+    color: darkgray;
+    display: flex;
+    margin-left: 25px;
+    margin-top: 18px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.area2 {
+
+    width: 280px;
+    height: 150px;
+    background-color: rgb(58, 57, 57);
+    margin-left: 550px;
+    margin-top: 150px;
+    border-radius: 20px;
+}
+.area3 {
+
+    width: 280px;
+    height: 150px;
+    background-color: rgb(58, 57, 57);
+    margin-left: 380px;
+    border-radius: 20px;
+    
+}
+.area4 {
+
+    width: 280px;
+    height: 150px;
+    background-color: rgb(58, 57, 57);
+    margin-left: 380px;
+    border-radius: 20px;
+}
+.final {
+ width: 1040px;
+ height: 200px;
+ background-color: rgb(58, 57, 57);
+ margin-top: 100px;
+ border-radius: 20px;
+}
+.bi {
+    position: absolute;
+    left: 50px;
+    background-size: 30px;
+}
